@@ -38,8 +38,8 @@ GROUP_REPOS = [
         "group f",
         "if time > 16 {beer++;}",
         ["https://github.com/TienCamLy/MiniTwit"],
-        "http://157.230.30.175:8080",
-        "http://157.230.30.175:8080",
+        "https://minitwitj.dk/",
+        "https://minitwitj.dk/",
     ],
     [
         "group g",
