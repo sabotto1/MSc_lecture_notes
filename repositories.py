@@ -52,8 +52,8 @@ GROUP_REPOS = [
         "group i",
         "I Terroni",
         ["https://github.com/stegish/I-Terroni-DevOps"],
-        "http://164.92.231.30:8080",
-        "http://164.92.231.30:8080",
+        "http://164.92.231.30",
+        "http://164.92.231.30",
     ],
     [
         "group k",
